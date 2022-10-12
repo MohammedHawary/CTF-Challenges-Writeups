@@ -1,0 +1,4 @@
+change last line with -> print(plain.decode())
+
+
+picoCTF{175_chr157m45_5274ff21}

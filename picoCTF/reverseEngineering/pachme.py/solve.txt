@@ -1,0 +1,3 @@
+you can add all string in if condition or change the condition to != in line 19 
+
+picoCTF{p47ch1ng_l1f3_h4ck_c4a4688b}

