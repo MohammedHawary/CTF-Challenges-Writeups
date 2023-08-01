@@ -17,11 +17,12 @@ Let's Try To show the Page source Code
 
 I saw the comment with Credential (user:support password:x34245323)
 
-IMG her
+![Screenshot from 2023-08-01 10-53-08](https://github.com/MohammedHawary/CTF-Challenges-Writeups/assets/94152045/8e0bb412-c872-40f7-a900-57fc299acf98)
 
 I logged in with this credential and I saw the message told me that you're a supporter and you need better privileges
 
-IMG her
+![Screenshot from 2023-08-01 10-53-21](https://github.com/MohammedHawary/CTF-Challenges-Writeups/assets/94152045/6a09b137-9734-475e-a885-f3f159541a2f)
+
 
 Then I show if there are a cookie or note
 
@@ -29,7 +30,7 @@ I found the cookie `role=support` I changed it to `role=admin` and refresh the p
 
 then I get the flag
 
-IMG her
+![Screenshot from 2023-08-01 10-54-50](https://github.com/MohammedHawary/CTF-Challenges-Writeups/assets/94152045/a79998e9-b3b0-4f23-930f-82960b7feeaa)
 
 ## Flag
 
