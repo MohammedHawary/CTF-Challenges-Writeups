@@ -30,7 +30,7 @@ I found the cookie `role=support` I changed it to `role=admin` and refresh the p
 
 then I get the flag
 
-![Screenshot from 2023-08-01 10-54-50](https://github.com/MohammedHawary/CTF-Challenges-Writeups/assets/94152045/a79998e9-b3b0-4f23-930f-82960b7feeaa)
+![Screenshot from 2023-08-01 10-54-50](https://github-production-user-asset-6210df.s3.amazonaws.com/94152045/257559763-23160c58-94dc-47c1-968f-f5a51581fe99)
 
 ## Flag
 
