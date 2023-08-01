@@ -10,7 +10,8 @@ Challenge Link:[http://wcamxwl32pue3e6m5p6v4ehxzg1rndvje7r4be3y-web.cybertalents
 
 Firstly, I saw the login page and tried to log in with some default web credentials, but it didn't work.
 
-IMG her
+![Screenshot from 2023-08-01 10-52-53](https://github.com/MohammedHawary/CTF-Challenges-Writeups/assets/94152045/96b71b8a-d671-4543-9577-513fa9464a09)
+
 
 Let's Try To show the Page source Code
 
