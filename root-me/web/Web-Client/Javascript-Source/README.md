@@ -6,7 +6,7 @@ You know javascript ?
 
 Challenge Link: [Challenges/Web - Client : Javascript - Source [Root Me : Hacking and Information Security learning platform] (root-me.org)](https://www.root-me.org/en/Challenges/Web-Client/Javascript-Source)
 
-# Approache
+# Approach
 
 Firstly, I saw the pop-up window ask me to enter password
 
@@ -25,5 +25,3 @@ I coped this password and loged in with it and the password of this login page t
 # Password
 
 **123456azerty**
-
-

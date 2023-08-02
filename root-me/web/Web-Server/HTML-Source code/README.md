@@ -6,7 +6,7 @@ Don’t search too far
 
 Challenge Linke: [challenge01.root-me.org/web-serveur/ch1/](http://challenge01.root-me.org/web-serveur/ch1/)
 
-## Approache
+## Approach
 
 Firstly, I saw the login page
 
