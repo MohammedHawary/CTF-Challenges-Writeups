@@ -1,2 +1,2 @@
 # CTF-Challenges-Writeups
-Solving CTF Challenges
+Solve CTF Challenges
