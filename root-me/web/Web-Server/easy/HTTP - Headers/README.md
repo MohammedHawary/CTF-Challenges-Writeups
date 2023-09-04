@@ -10,7 +10,7 @@ Challenge Link: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Headers
 
 # Approach
 
-First, I saw a web page containing this text.  <u>Content is not the only part of an HTTP response!</u> Let's capture this request with burp
+First, I saw a web page containing this text. **Content is not the only part of an HTTP response!** Let's capture this request with burp
 
 ![Screenshot from 2023-09-04 02-06-48](https://github.com/MohammedHawary/Web-Penetration/assets/94152045/94c74640-e87b-4f95-a669-ee910e45edb0)
 As we can see, the server response contains header called
