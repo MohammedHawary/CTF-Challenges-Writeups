@@ -4,7 +4,7 @@
 
 Don’t search too far
 
-Challenge Linke: [challenge01.root-me.org/web-serveur/ch1/](http://challenge01.root-me.org/web-serveur/ch1/)
+Challenge Linke: https://www.root-me.org/en/Challenges/Web-Server/HTML-Source-code
 
 ## Approach
 

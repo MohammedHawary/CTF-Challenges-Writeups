@@ -4,7 +4,7 @@
 
 Ping service v1
 
-challenge Link: [Ping Service](http://challenge01.root-me.org/web-serveur/ch54/)
+challenge Link: https://www.root-me.org/en/Challenges/Web-Server/PHP-Command-injection
 
 ## Statement
 

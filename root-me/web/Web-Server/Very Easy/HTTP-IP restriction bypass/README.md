@@ -4,7 +4,7 @@
 
 Only local users will be able to access the page
 
-Challenge Link: [Challenges/Web - Server : HTTP - IP restriction bypass [Root Me : Hacking and Information Security learning platform]](https://www.root-me.org/en/Challenges/Web-Server/HTTP-IP-restriction-bypass)
+Challenge Link: https://www.root-me.org/en/Challenges/Web-Server/HTTP-IP-restriction-bypass
 
 ## Statement
 

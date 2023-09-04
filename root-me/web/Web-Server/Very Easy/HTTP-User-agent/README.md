@@ -4,7 +4,7 @@
 
 Admin is really dumb...
 
-challenge Link: http://challenge01.root-me.org/web-serveur/ch2/
+challenge Link: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
 
 # Approach
 

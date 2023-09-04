@@ -4,7 +4,7 @@
 
 Nothing too difficult
 
-challenge Link: http://challenge01.root-me.org/web-serveur/ch3/
+challenge Link: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
 
 # Approach
 

@@ -4,7 +4,7 @@
 
 Internet is so big
 
-Challenge Link: [HTTP - Open redirect (root-me.org)](http://challenge01.root-me.org/web-serveur/ch52/)
+Challenge Link: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Open-redirect
 
 ## Statement
 
