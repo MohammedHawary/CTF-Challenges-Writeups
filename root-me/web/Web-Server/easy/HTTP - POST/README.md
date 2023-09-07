@@ -10,7 +10,7 @@ challenge Link: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
 
 # Approach
 
-First, I saw page and it challenge me to get new high score and there are buttom when press it give you random value
+First, I saw page, and it challenges me to get new high score and there are button when press it gives you random value
 
 ![Screenshot from 2023-09-07 16-00-05](https://github.com/MohammedHawary/Web-Penetration/assets/94152045/6deef980-f7a0-4d5b-8d46-9338541327f0)
 Let's capture this request
